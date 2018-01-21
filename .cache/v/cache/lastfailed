@@ -1,0 +1,7 @@
+{
+  "dengLuTest.py::DengLuTest::test_member_updating": true,
+  "dengLuTest.py::MyTestCase::test_denglu": true,
+  "dengLuTest.py::MyTestCase::test_member_updating": true,
+  "updateMemberInfoTest.py::MyTestCase::test_member_updating": true,
+  "updateMemberInfoTest.py::UpdateMemberInfoTest::test_member_updating": true
+}
