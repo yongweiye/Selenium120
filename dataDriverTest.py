@@ -5,6 +5,7 @@
 # 1.首先准备一个ｃｓｖ文档
 # 2.要想读取ｃｓｖ文件，必须引入ｃｓｖ锝代码库
 import csv
+#
 # 3, 必须知道文件的目录结构
 # C:\Users\51Testing\PycharmProjects\Selenium120\data\member_info.csv
 # 程序里的代码,不能用绝对路径, 应该改成相对路径, 这样便于多人协同工作
